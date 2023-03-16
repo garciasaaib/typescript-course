@@ -1,0 +1,12 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adranuz/typescript-course.git",
+  "author": "Adranuz <60374995+adranuz@users.noreply.github.com>",
+  "license": "MIT",
+  "workspaces": [
+  "fernando-herrera",
+  "stephen"
+  ]
+}

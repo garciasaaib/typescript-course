@@ -1,0 +1,2 @@
+### https://jsonplaceholder.typicode.com/`
+GET http://api.openweathermap.org/data/2.5/weather?lat=21.5194&lon=-104.9297&appid=11aa90a392ece6a8fcbd795a5c7280b2
